@@ -1,0 +1,26 @@
+/*1*/
+/*.form{*/
+/*    display: flex;*/
+/*    flex-direction: column;*/
+/*    row-gap: 5px;*/
+/*    border: red 2px solid;*/
+/*}*/
+/*.wrapper{*/
+/*    width: 350px;*/
+/*    padding: 10px;*/
+/*}*/
+/*.flex{*/
+/*    display: flex;*/
+/*    justify-content: space-between;*/
+/*}*/
+
+/*3*/
+.wrapper {
+    width: 350px;
+    padding: 10px;
+}
+.item{
+    margin-top: 10px;
+    border: deeppink 2px solid;
+}
+
